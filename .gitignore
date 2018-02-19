@@ -1,3 +1,5 @@
 *.tlog
 *.idb
 *.filters
+*.db
+task3_wormhole/x64/
