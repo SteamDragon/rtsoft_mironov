@@ -3,3 +3,4 @@
 *.filters
 *.db
 task3_wormhole/x64/
+*.opendb
